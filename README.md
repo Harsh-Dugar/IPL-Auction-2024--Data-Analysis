@@ -36,11 +36,12 @@ This project conducts an extensive Exploratory Data Analysis (EDA) of the **IPL 
     * Ensure you have the required libraries installed (`pip install pandas numpy matplotlib seaborn`).
 
 ## Key Findings / Insights (Example - **CUSTOMIZE WITH YOUR ACTUAL DISCOVERIES!**)
-* **Strategic Spending:** Identified that [Team X] disproportionately invested in [e.g., overseas all-rounders] compared to other franchises.
+* **Strategic Spending:** Identified that Mumbai Indians disproportionately invested in Overseas Player compared to other franchises.
 * **Base Price Impact:** Revealed that a high base price didn't always guarantee a high final bid, especially for [specific player type].
-* **Unsold Trends:** Noted that [e.g., specialist Test batsmen without recent T20 exposure] had a higher tendency to go unsold.
-* **Valuable Categories:** Discovered that [e.g., uncapped Indian fast bowlers] saw significant bidding wars and inflated prices.
+* **Unsold Trends:** Noted that Steve Smith (Specialist Test batsmen without recent T20 exposure) had a higher tendency to go unsold.
+* **Valuable Categories:** Discovered that Uncapped Indians saw significant bidding wars and inflated prices.
 
-## Visualizations (Crucial! Add screenshots of your plots!)
-*(Take screenshots of your best charts and graphs from your Google Colab notebook that illustrate your auction findings. Upload them to your GitHub repository (e.g., in an 'assets' folder). Then, link them here:)*
-![Team Spending Distribution](
+## Visualizations
+![Screenshot 2025-06-06 182242](https://github.com/user-attachments/assets/cf074d60-b7b8-4efa-82f1-75bf821070d2)
+![Screenshot 2025-06-06 182517](https://github.com/user-attachments/assets/77bbd58a-fa93-439f-81d5-386f06ab4153)
+![Screenshot 2025-06-06 182358](https://github.com/user-attachments/assets/7d171d3b-755b-4030-a2d2-52861346206c)
