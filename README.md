@@ -25,11 +25,11 @@ This project conducts an extensive Exploratory Data Analysis (EDA) of the **IPL 
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/IPL-2024-Auction-Data-Analysis.git](https://github.com/yourusername/IPL-2024-Auction-Data-Analysis.git)
+    git clone [https://github.com/yourusername/IPL-Auction-2024--Data-Analysis.git](https://github.com/yourusername/IPL-2024-Auction-Data-Analysis.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd IPL-2024-Auction-Data-Analysis
+    cd IPL-Auction-2024--Data-Analysis
     ```
 3.  **Open the notebook:**
     * You can open the `IPL_2024_Auction_Analysis.ipynb` (or whatever your notebook file is named) in **Google Colab** by uploading it directly, or in a **Jupyter Notebook** environment.
