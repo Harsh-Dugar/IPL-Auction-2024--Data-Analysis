@@ -37,7 +37,7 @@ This project conducts an extensive Exploratory Data Analysis (EDA) of the **IPL 
 
 ## Insights
 * **Strategic Spending:** Identified that Mumbai Indians disproportionately invested in Overseas Player compared to other franchises.
-* **Base Price Impact:** Revealed that a high base price didn't always guarantee a high final bid, especially for [specific player type].
+* **Base Price Impact:** Revealed that a high base price didn't always guarantee a high final bid, especially for Bowlers
 * **Unsold Trends:** Noted that Steve Smith (Specialist Test batsmen without recent T20 exposure) had a higher tendency to go unsold.
 * **Valuable Categories:** Discovered that Uncapped Indians saw significant bidding wars and inflated prices.
 
